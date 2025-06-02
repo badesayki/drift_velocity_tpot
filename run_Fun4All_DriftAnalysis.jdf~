@@ -1,0 +1,95 @@
+Universe     = vanilla
+Notification = Never
+
+Initialdir   = ./
+Executable   = ./run_Fun4All_DriftAnalysis.sh
+
+Log = ./LOG_29052025/log_DriftAnalysis_$(Process)_full.txt
+Output = ./LOG_29052025/output_DriftAnalysis_$(Process)_full.txt
+Error = ./LOG_29052025/error_DriftAnalysis_$(Process)_full.txt
+GetEnv = True
+request_memory = 24GB
+
+# # events, run number, offset, process
+# # Note process is segment x 10 + chunk
+
+Arguments = 1000 53630 0 $(Process)
+Queue 750
+
+Arguments = 1000 53631 750 $(Process)
+Queue 250
+
+Arguments = 1000 53632 1000 $(Process)
+Queue 500
+
+Arguments = 1000 53652 1500 $(Process)
+Queue 250
+
+Arguments = 1000 53686 1750 $(Process)
+Queue 750
+
+Arguments = 1000 53687 2500 $(Process)
+Queue 250
+
+Arguments = 1000 53741 2750 $(Process)
+Queue 250
+
+Arguments = 1000 53742 3000 $(Process)
+Queue 250
+
+Arguments = 1000 53743 3250 $(Process)
+Queue 250
+
+Arguments = 1000 53744 3500 $(Process)
+Queue 250
+
+Arguments = 1000 53876 3750 $(Process)
+Queue 250
+
+Arguments = 1000 53877 4000 $(Process)
+Queue 250
+
+Arguments = 1000 53879 4250 $(Process)
+Queue 250
+
+Arguments = 1000 53079 4500 $(Process)
+Queue 750
+
+Arguments = 1000 53080 5250 $(Process)
+Queue 750
+
+Arguments = 1000 53081 6000 $(Process)
+Queue 750
+
+Arguments = 1000 53194 6750 $(Process)
+Queue 750
+
+Arguments = 1000 53195 7500 $(Process)
+Queue 750
+
+Arguments = 1000 53196 8250 $(Process)
+Queue 750
+
+Arguments = 1000 53197 9000 $(Process)
+Queue 750
+
+Arguments = 1000 53494 9750 $(Process)
+Queue 750
+
+Arguments = 1000 53513 10500 $(Process)
+Queue 500
+
+Arguments = 1000 53517 11000 $(Process)
+Queue 500
+
+Arguments = 1000 53530 11500 $(Process)
+Queue 1000
+
+Arguments = 1000 53531 12500 $(Process)
+Queue 250
+
+Arguments = 1000 53532 12750 $(Process)
+Queue 250
+
+Arguments = 1000 53534 13000 $(Process)
+Queue 1000

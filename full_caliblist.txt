@@ -1,0 +1,23 @@
+run number, path
+53741, /cvmfs/sphenix.sdcc.bnl.gov/calibrations/sphnxpro/cdb/TPC_LAMINATION_FIT_CORRECTION/06/62/0662771a2e0b894ce6474938120af278_Laminations_run2pp_ana466_2024p012_v001-00053741.root
+53756, /cvmfs/sphenix.sdcc.bnl.gov/calibrations/sphnxpro/cdb/TPC_LAMINATION_FIT_CORRECTION/12/15/121512cca21efaf131d108291a148a56_Laminations_run2pp_ana466_2024p012_v001-00053756.root
+53739, /cvmfs/sphenix.sdcc.bnl.gov/calibrations/sphnxpro/cdb/TPC_LAMINATION_FIT_CORRECTION/12/9c/129c3add0fef0ce75670deefd89320d4_Laminations_run2pp_ana466_2024p012_v001-00053739.root
+53744, /cvmfs/sphenix.sdcc.bnl.gov/calibrations/sphnxpro/cdb/TPC_LAMINATION_FIT_CORRECTION/20/3d/203d4732212603568d005807836aa835_Laminations_run2pp_ana466_2024p012_v001-00053744.root
+53876, /cvmfs/sphenix.sdcc.bnl.gov/calibrations/sphnxpro/cdb/TPC_LAMINATION_FIT_CORRECTION/49/2a/492a3a075cf441878d697394e2b8ebce_Laminations_run2pp_ana466_2024p012_v001-00053876.root
+53716, /cvmfs/sphenix.sdcc.bnl.gov/calibrations/sphnxpro/cdb/TPC_LAMINATION_FIT_CORRECTION/64/48/6448d0684b880e82c8a6ca749abc558a_Laminations_run2pp_ana466_2024p012_v001-00053716.root
+53652, /cvmfs/sphenix.sdcc.bnl.gov/calibrations/sphnxpro/cdb/TPC_LAMINATION_FIT_CORRECTION/7e/b2/7eb2bcf977f23ff0bc5996184c191451_Laminations_run2pp_ana466_2024p012_v001-00053652.root
+53534, /cvmfs/sphenix.sdcc.bnl.gov/calibrations/sphnxpro/cdb/TPC_LAMINATION_FIT_CORRECTION/80/fd/80fdd421a966b8df8b820804d7324a3b_Laminations_run2pp_ana466_2024p012_v001-00053534.root
+53877, /cvmfs/sphenix.sdcc.bnl.gov/calibrations/sphnxpro/cdb/TPC_LAMINATION_FIT_CORRECTION/8e/79/8e796967cd027faabaf26b94827c9bf3_Laminations_run2pp_ana466_2024p012_v001-00053877.root
+53871, /cvmfs/sphenix.sdcc.bnl.gov/calibrations/sphnxpro/cdb/TPC_LAMINATION_FIT_CORRECTION/a1/48/a148130f88a47757e863f25c8a04804a_Laminations_run2pp_ana466_2024p012_v001-00053871.root
+53687, /cvmfs/sphenix.sdcc.bnl.gov/calibrations/sphnxpro/cdb/TPC_LAMINATION_FIT_CORRECTION/a4/9b/a49b096049105fb7d358fecd1b805f2d_Laminations_run2pp_ana466_2024p012_v001-00053687.root
+53632, /cvmfs/sphenix.sdcc.bnl.gov/calibrations/sphnxpro/cdb/TPC_LAMINATION_FIT_CORRECTION/ad/23/ad23e6bb50c7634ef0ac3904db89042c_Laminations_run2pp_ana466_2024p012_v001-00053632.root
+53743, /cvmfs/sphenix.sdcc.bnl.gov/calibrations/sphnxpro/cdb/TPC_LAMINATION_FIT_CORRECTION/ae/cb/aecbeace227ce62aa3bdf78167774b35_Laminations_run2pp_ana466_2024p012_v001-00053743.root
+53630, /cvmfs/sphenix.sdcc.bnl.gov/calibrations/sphnxpro/cdb/TPC_LAMINATION_FIT_CORRECTION/af/b5/afb569f27c7fab8c66ac571c6c0b4c1f_Laminations_run2pp_ana466_2024p012_v001-00053630.root
+52077, /cvmfs/sphenix.sdcc.bnl.gov/calibrations/sphnxpro/cdb/TPC_LAMINATION_FIT_CORRECTION/ba/ac/baac732545c6cae48f149984f6264d5f_Laminations_run2pp_ana466_2024p012_v001-00052077.root
+52078, /cvmfs/sphenix.sdcc.bnl.gov/calibrations/sphnxpro/cdb/TPC_LAMINATION_FIT_CORRECTION/be/74/be74b2b64658427369323f134b379438_Laminations_run2pp_ana466_2024p012_v001-00052078.root
+53738, /cvmfs/sphenix.sdcc.bnl.gov/calibrations/sphnxpro/cdb/TPC_LAMINATION_FIT_CORRECTION/c8/7b/c87b0b1e2fd519963041d466ba71f4cd_Laminations_run2pp_ana466_2024p012_v001-00053738.root
+53631, /cvmfs/sphenix.sdcc.bnl.gov/calibrations/sphnxpro/cdb/TPC_LAMINATION_FIT_CORRECTION/ca/d6/cad6a1dbb770e450481eac1e103f91c6_Laminations_run2pp_ana466_2024p012_v001-00053631.root
+53742, /cvmfs/sphenix.sdcc.bnl.gov/calibrations/sphnxpro/cdb/TPC_LAMINATION_FIT_CORRECTION/eb/0a/eb0acfbf5ddf0bc1729aca8e0a798733_Laminations_run2pp_ana466_2024p012_v001-00053742.root
+53879, /cvmfs/sphenix.sdcc.bnl.gov/calibrations/sphnxpro/cdb/TPC_LAMINATION_FIT_CORRECTION/f3/40/f34080fb7dce780ad994186492eade5a_Laminations_run2pp_ana466_2024p012_v001-00053879.root
+49709, /cvmfs/sphenix.sdcc.bnl.gov/calibrations/sphnxpro/cdb/TPC_LAMINATION_FIT_CORRECTION/fa/f1/faf1b507083fd3f75ab63304a273471d_Laminations_run2pp_ana466_2024p012_v001-00049709.root
+53783, /cvmfs/sphenix.sdcc.bnl.gov/calibrations/sphnxpro/cdb/TPC_LAMINATION_FIT_CORRECTION/fb/db/fbdb0fe2d9ba7768b79607b421750449_Laminations_run2pp_ana466_2024p012_v001-00053783.root

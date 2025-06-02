@@ -1,0 +1,1 @@
+This is where all the log, output and error files from the condor jobs go. If I no longer need these files, I just delete them before my next iteration.
